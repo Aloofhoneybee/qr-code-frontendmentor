@@ -1,1 +1,1 @@
-# qr-code-frontendmentor
+made with HTML and Tailwind css 
