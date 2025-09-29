@@ -1,0 +1,6 @@
+@import url(https://fonts.google.com/specimen/Outfit);
+@import "tailwindcss";
+
+@theme {
+  --font-outfit: "Outfit"; 
+}
